@@ -1,0 +1,5 @@
+Fixed Potemkin volume
+Added default Xrd announcer in the list
+Added Sin,Elphelt,Bedman,Slayer char select voicelines
+Added all the last stand voicelines to final duel
+Mixed some Keep on Rockin' lines after the first Lets rock
